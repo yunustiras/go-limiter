@@ -8,7 +8,7 @@ This package provides a rate limiter in Go (Golang), suitable for use in HTTP
 servers and distributed workloads. It's specifically designed for
 configurability and flexibility without compromising throughput.
 
-
+.
 ## Usage
 
 1.  Create a store. This example uses an in-memory store:
